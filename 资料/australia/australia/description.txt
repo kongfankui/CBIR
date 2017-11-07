@@ -1,0 +1,31 @@
+Image1.jpg  : trees, beach, ocean, sky, cliffs
+Image2.jpg  : koala, eucalypt, tree
+Image3.jpg  : beach, ocean, sky, cliffs
+Image4.jpg  : water, corals, sky, clouds
+Image5.jpg  : trees, grass, eucalypt
+Image6.jpg  : tree, grass, sky
+Image7.jpg  : water, corals, sky, clouds
+Image8.jpg  : tree, grass, clouds, sky
+Image9.jpg  : beach, ocean, sky, cliffs
+Image10.jpg : trees, bush, kangaroo, grass
+Image11.jpg : bush, kangaroo, grass
+Image12.jpg : sky, clouds, palm trees
+Image13.jpg : bush, rocks
+Image14.jpg : sky, trees, flying fox
+Image15.jpg : sky, trees, flying fox
+Image16.jpg : grass, tree, kangaroo
+Image17.jpg : fern, trees
+Image18.jpg : beach, sky, ocean, trees
+Image19.jpg : bushes, rocks, ocean, sky
+Image20.jpg : clouds, fields, trees, mountain
+Image21.jpg : trees, river
+Image22.jpg : trees, rocks, sky
+Image23.jpg : tree, fields, sky
+Image24.jpg : beach, trees, sky, ocean
+Image25.jpg : building, opera house, concrete
+Image26.jpg : clouds, sky, building, people
+Image27.jpg : kangaroo, grass, trees, people
+Image28.jpg : clouds, sky, trees, hill, concrete
+Image29.jpg : tree, koala
+Image30.jpg : tree, koala
+
